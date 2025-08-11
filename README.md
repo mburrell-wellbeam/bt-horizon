@@ -51,6 +51,10 @@ git pull upstream main
 
 There are a number of really useful tools that the Shopify Themes team uses during development. Horizon is already set up to work with these tools.
 
+### GitHub CLI
+
+[GitHub CLI](https://cli.github.com/)
+
 ### Shopify CLI
 
 [Shopify CLI](https://shopify.dev/docs/storefronts/themes/tools/cli) helps you build Shopify themes faster and is used to automate and enhance your local development workflow. It comes bundled with a suite of commands for developing Shopify themes—everything from working with themes on a Shopify store (e.g. creating, publishing, deleting themes) or launching a development server for local theme development.
